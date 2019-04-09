@@ -1,0 +1,10 @@
+C:\Users\sem\source\repos\C_Finder\C_Finder\bin\Debug\C_Finder.exe.config
+C:\Users\sem\source\repos\C_Finder\C_Finder\bin\Debug\C_Finder.exe
+C:\Users\sem\source\repos\C_Finder\C_Finder\bin\Debug\C_Finder.pdb
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.csprojResolveAssemblyReference.cache
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.Form1.resources
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.Properties.Resources.resources
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.csproj.GenerateResource.Cache
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.csproj.CoreCompileInputs.cache
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.exe
+C:\Users\sem\source\repos\C_Finder\C_Finder\obj\Debug\C_Finder.pdb
