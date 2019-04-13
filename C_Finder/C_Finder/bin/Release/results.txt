@@ -1,0 +1,232 @@
+File have wrong format:  C:\Users\sem\Downloads\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev\0703055
+
+Start reading file:  C:\Users\sem\Downloads\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev\0703055.pdf
+  result not found.
+Start reading file:  C:\Users\sem\Downloads\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev\Abstract.txt
+  result not found.
+Start reading file:  C:\Users\sem\Downloads\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev.tex
+  found 110 resultsoriented surface) $\times \,
+ots in $\RR^3=\RR^2\times \R
+\subset \partial M \times \R
+s an annulus in $M \times \R
+t $K\subset \Sigma \times \R
+e $K\subset \Sigma \times \R
+m $\partial \Sigma \times \R
+d $K\subset \Sigma \times \R
+ K_2\subset \Sigma \times \R
+ knots in $ \Sigma \times \R
+1 \subset \Sigma_1 \times \R
+_2\subset \Sigma_2 \times \R
+h that the knot $(f\times \i
+1)\subset \Sigma_2 \times \R
+ on $\Sigma =\Sigma\times \{
+s a knot in $\Sigma\times \R
+of $D$ into $\Sigma\times (0
+y knot in $ \Sigma \times \R
+t $K\subset \Sigma \times \R
+t $K\subset \Sigma \times \R
+t $K\subset \Sigma \times \R
+K_2 \subset \Sigma \times \R
+#K_2\subset \Sigma \times \R
+\subset \RR^3=\RR^2\times \R
+m on the torus $S^1\times S^
+ knot $K\subset S^1\times S^
+bset S^1\times S^1 \times \R
+ knot $K\subset S^1\times S^
+bset S^1\times S^1 \times \R
+$K_0\subset \Sigma \times \R
+e knot $K_0 \# (S^1\times x)
+on $\Sigma \# (S^1 \times S^
+0 $ by $K_0 \# (S^1\times x)
+ $K'\subset \Sigma \times \R
+$K''\subset \Sigma \times \R
+t $K\subset \Sigma \times \R
+ $[K]\in H_1(\Sigma\times \R
+ubset \Sigma^{(m)} \times \R
+bedding $( \Sigma_1\times \R
+) \amalg ( \Sigma_2\times \R
+htarrow \partial M \times \R
+nted annulus in $M \times \R
+y knot in $ \Sigma'\times \R
+ viewed in $\Sigma \times \R
+is, take $M=\Sigma \times [0
+ngs $\Sigma=\Sigma \times 0 
+d $\Sigma'=\Sigma' \times 1 
+\subset \partial M \times \R
+nnulus $F\subset M \times \R
+imes \RR$. Let $p:M\times \R
+nnulus in $ M^{(m)}\times \R
+ot $K\subset \Sigma\times \R
+not in $\RR^3=\RR^2\times \R
+ot $K\subset \Sigma\times \R
+embedding $ \Sigma \times \R
+\subset \partial M \times \R
+mbedded disk in $M \times \R
+ots in $\partial M \times \R
+\subset \partial M \times \R
+ \RR$ bounds in $ M\times \R
+ic to $(\RR^2, \RR \times 0)
+R^2, \RR \times 0) \times \R
+or to $(\RR^2, \RR \times 0 
+\RR \times 0 \cup 0\times \R
+ \cup 0\times \RR )\times \R
+Let now $F\subset M\times \R
+ary on $\partial M \times \R
+ F\cap (\partial M \times \R
+f the projection $M\times \R
+ F$ in $\partial M \times \R
+f the projection $M\times \R
+i\subset \partial M\times \R
+bons in $F\subset M\times \R
+ knot $K\subset S^1\times S^
+bset S^1\times S^1 \times \R
+rbitrary mapping $G\times G 
+f the mapping $b :G\times G 
+rline b:\overline G\times \o
+idehat b:\widehat G\times \w
+e the pairing $b :G\times G\
+c knots in $\Sigma \times \R
+} $K\subset \Sigma \times \R
+s a disk in $\Sigma\times \R
+e knot $K$ on $ S^1\times S^
+nd the mapping $b:G\times G 
+ matrix $T=(G,s,b:G\times G 
+ the same number of times an
+ the same number of times. I
+The maps $\{b_t:G_t\times G_
+ $b=\oplus_t b_t:RG\times RG
+K_1\subset \Sigma_1\times \R
+K_r\subset \Sigma_r\times \R
+g_{i=1}^r \Sigma_i \times \R
+\subset \partial M \times \R
+\RR$$ bounds in $M \times \R
+r the surface in $M\times \R
+surface $F\subset M\times \R
+\subset \partial M \times \R
+ F\cap (\partial M \times \R
+f the projection $M\times \R
+ $ H_1(\partial M) \times H_
+l}\rk\, (B\vert_L:L\times L 
+t $K\subset \Sigma \times \R
+h \subset \Sigma_h \times \R
+embedding $ \Sigma \times \R
+\subset \partial M \times \R
+d disk $B\subset M \times \R
+e disk $B\subset M \times \R
+ubset \widetilde M \times \R
+B \subset \Sigma_h \times \R
+
+File have wrong format:  C:\Users\sem\Downloads\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev\Source\0703055
+
+Start reading file:  C:\Users\sem\Downloads\Cobordism of knots on surfaces_ Vladimir Turaev\Cobordism of knots on surfaces_ Vladimir Turaev\Source\cobo7.tex
+  found 110 resultsoriented surface) $\times \,
+ots in $\RR^3=\RR^2\times \R
+\subset \partial M \times \R
+s an annulus in $M \times \R
+t $K\subset \Sigma \times \R
+e $K\subset \Sigma \times \R
+m $\partial \Sigma \times \R
+d $K\subset \Sigma \times \R
+ K_2\subset \Sigma \times \R
+ knots in $ \Sigma \times \R
+1 \subset \Sigma_1 \times \R
+_2\subset \Sigma_2 \times \R
+h that the knot $(f\times \i
+1)\subset \Sigma_2 \times \R
+ on $\Sigma =\Sigma\times \{
+s a knot in $\Sigma\times \R
+of $D$ into $\Sigma\times (0
+y knot in $ \Sigma \times \R
+t $K\subset \Sigma \times \R
+t $K\subset \Sigma \times \R
+t $K\subset \Sigma \times \R
+K_2 \subset \Sigma \times \R
+#K_2\subset \Sigma \times \R
+\subset \RR^3=\RR^2\times \R
+m on the torus $S^1\times S^
+ knot $K\subset S^1\times S^
+bset S^1\times S^1 \times \R
+ knot $K\subset S^1\times S^
+bset S^1\times S^1 \times \R
+$K_0\subset \Sigma \times \R
+e knot $K_0 \# (S^1\times x)
+on $\Sigma \# (S^1 \times S^
+0 $ by $K_0 \# (S^1\times x)
+ $K'\subset \Sigma \times \R
+$K''\subset \Sigma \times \R
+t $K\subset \Sigma \times \R
+ $[K]\in H_1(\Sigma\times \R
+ubset \Sigma^{(m)} \times \R
+bedding $( \Sigma_1\times \R
+) \amalg ( \Sigma_2\times \R
+htarrow \partial M \times \R
+nted annulus in $M \times \R
+y knot in $ \Sigma'\times \R
+ viewed in $\Sigma \times \R
+is, take $M=\Sigma \times [0
+ngs $\Sigma=\Sigma \times 0 
+d $\Sigma'=\Sigma' \times 1 
+\subset \partial M \times \R
+nnulus $F\subset M \times \R
+imes \RR$. Let $p:M\times \R
+nnulus in $ M^{(m)}\times \R
+ot $K\subset \Sigma\times \R
+not in $\RR^3=\RR^2\times \R
+ot $K\subset \Sigma\times \R
+embedding $ \Sigma \times \R
+\subset \partial M \times \R
+mbedded disk in $M \times \R
+ots in $\partial M \times \R
+\subset \partial M \times \R
+ \RR$ bounds in $ M\times \R
+ic to $(\RR^2, \RR \times 0)
+R^2, \RR \times 0) \times \R
+or to $(\RR^2, \RR \times 0 
+\RR \times 0 \cup 0\times \R
+ \cup 0\times \RR )\times \R
+Let now $F\subset M\times \R
+ary on $\partial M \times \R
+ F\cap (\partial M \times \R
+f the projection $M\times \R
+ F$ in $\partial M \times \R
+f the projection $M\times \R
+i\subset \partial M\times \R
+bons in $F\subset M\times \R
+ knot $K\subset S^1\times S^
+bset S^1\times S^1 \times \R
+rbitrary mapping $G\times G 
+f the mapping $b :G\times G 
+rline b:\overline G\times \o
+idehat b:\widehat G\times \w
+e the pairing $b :G\times G\
+c knots in $\Sigma \times \R
+} $K\subset \Sigma \times \R
+s a disk in $\Sigma\times \R
+e knot $K$ on $ S^1\times S^
+nd the mapping $b:G\times G 
+ matrix $T=(G,s,b:G\times G 
+ the same number of times an
+ the same number of times. I
+The maps $\{b_t:G_t\times G_
+ $b=\oplus_t b_t:RG\times RG
+K_1\subset \Sigma_1\times \R
+K_r\subset \Sigma_r\times \R
+g_{i=1}^r \Sigma_i \times \R
+\subset \partial M \times \R
+\RR$$ bounds in $M \times \R
+r the surface in $M\times \R
+surface $F\subset M\times \R
+\subset \partial M \times \R
+ F\cap (\partial M \times \R
+f the projection $M\times \R
+ $ H_1(\partial M) \times H_
+l}\rk\, (B\vert_L:L\times L 
+t $K\subset \Sigma \times \R
+h \subset \Sigma_h \times \R
+embedding $ \Sigma \times \R
+\subset \partial M \times \R
+d disk $B\subset M \times \R
+e disk $B\subset M \times \R
+ubset \widetilde M \times \R
+B \subset \Sigma_h \times \R
+
